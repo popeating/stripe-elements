@@ -1,8 +1,7 @@
 ## Stripe Element + Next.js Tutorial
 
-This repo contains the code to follow my tutorial on implementing a payment workflow in Next.js using Stripe Elements.
+This repo contains the code to follow my tutorial on implementing a payment workflow and webhooks in Next.js using Stripe Elements.
 
-It will also implement webhooks
 
 Useful links:
 
