@@ -1,8 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Stripe Element + Next.js Tutorial
 
-## Getting Started
+This repo contains the code to follow my tutorial on implementing a payment workflow in Next.js using Stripe Elements.
 
-First, run the development server:
+It will also implement webhooks
 
 ```bash
 npm run dev
