@@ -7,4 +7,5 @@ It will also implement webhooks
 Useful links:
 
 - [Tutorial](https://nextjs.org/docs) - Stripe Elements in Next.js.
-- [Stripe API Reference] (https://stripe.com/docs/api)
+- [Stripe API Reference](https://stripe.com/docs/api)
+- [Next.js API Routes](https://nextjs.org/docs/api-routes/introduction)
