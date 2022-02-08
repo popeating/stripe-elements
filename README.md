@@ -5,6 +5,6 @@ This repo contains the code to follow my tutorial on implementing a payment work
 
 Useful links:
 
-- [Tutorial](https://nextjs.org/docs) - Stripe Elements in Next.js.
+- [Tutorial](https://popeating.medium.com/stripe-elements-in-next-js-da59c502af48) - Stripe Elements in Next.js.
 - [Stripe API Reference](https://stripe.com/docs/api)
 - [Next.js API Routes](https://nextjs.org/docs/api-routes/introduction)
